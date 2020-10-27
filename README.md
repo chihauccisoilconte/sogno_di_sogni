@@ -7,6 +7,7 @@ The repository contains schematics and code for the sensors attached to the shee
 more info:
 
 http://www.evamacali.info/
+https://federicopeliti.com/
 http://www.conventobolsena.org/
 http://www.puntidivista.land/
 https://chihauccisoilconte.eu/
