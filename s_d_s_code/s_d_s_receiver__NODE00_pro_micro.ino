@@ -31,7 +31,6 @@ const uint16_t node04 = 04;
 
 
 void setup() {
-  MIDI.begin(MIDI_CHANNEL_OMNI);
   Serial.begin(115200);
   SPI.begin();
   radio.begin();
