@@ -1,5 +1,5 @@
 /*
-  Sogno_di_sogni_NODE0 - == Base/ Master Node 02==
+  Sogno_di_sogni_NODE0 - ==  Node 02==
 
   by Chi ha ucciso Il Conte? (Nicolo Merendino - https://chihauccisoilconte.eu/)
   from code by Dejan, www.HowToMechatronics.com
